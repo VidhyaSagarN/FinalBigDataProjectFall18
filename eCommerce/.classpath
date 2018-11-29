@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/annotations-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/catalina.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/catalina-ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/catalina-ha.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/catalina-tribes.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/el-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/jasper.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/jasper-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/jsp-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/tomcat7-websocket.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/tomcat-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/tomcat-coyote.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/tomcat-dbcp.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/tomcat-i18n-es.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/tomcat-i18n-fr.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/tomcat-i18n-ja.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/tomcat-jdbc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/tomcat-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/websocket-api.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/Big Data/Jars/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

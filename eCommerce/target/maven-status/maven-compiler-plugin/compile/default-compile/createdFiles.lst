@@ -1,0 +1,7 @@
+com\controller\Search.class
+com\controller\Filter.class
+com\model\Tester.class
+com\model\RedisSession.class
+com\dao\Item.class
+com\model\CassandraSession.class
+com\model\SolrSearch.class
